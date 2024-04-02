@@ -1,6 +1,6 @@
 # RankGPTMod: Improving Listwise Generation with GPT
 
 ## Contributors
-Vineet Sunkavalli
-Veda Kailasam
-Shagufta Anjum
+ - Vineet Sunkavalli
+ - Veda Kailasam
+ - Shagufta Anjum
